@@ -54,4 +54,4 @@ Example:
 ```text
 2008 ───────────── 2019
 
-<img width="1321" height="725" alt="Screenshot 2026-09-15 230250" src="https://github.com/user-attachments/assets/9e300c51-713f-4df2-9f19-104b1f383b4c" />
+
